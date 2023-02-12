@@ -24,6 +24,7 @@ int main()
             cout<<s[pos-1];
         }   
     }
+    
        
     return 0;
 }
